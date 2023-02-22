@@ -1,0 +1,244 @@
+
+.header{
+    background-image: url('/Portfolio/Images/bg\ img.jpg');
+    background-size:1340px;
+    height: 650px;
+    margin-top:-20px;
+    margin-left:-10px;
+    margin-right:-5px;
+    
+}
+#user{
+    height:40px;
+    margin-top:20px;
+    margin-left:20px;
+}
+#logoname{
+    margin-left:56px;
+    margin-top:-32px;
+}
+.nav{
+    margin-left:725px;
+    margin-top:-40px;
+    word-spacing:30px;
+    font-size:20px;
+}
+.Download{
+    background-color:transparent;
+    border-radius:10px;
+    height:33px;
+    font-size:20px;
+    font-family: 'poppins',sans-serif;
+    border:none;
+    background-color: #ea323e;
+    color: white;
+
+}
+.nav button :hover{
+    border:1px solid black;
+}
+
+.nav a{
+   color: black;
+   text-decoration:none;
+   font-family: 'poppins',sans-serif;
+}
+.nav a:hover{
+    text-decoration:underline;
+    text-decoration-color:#ea323e  ;
+    left:0;
+    bottom:-5px;
+    transition:0.4s;
+    height:2px;
+    width:0;
+    content: ""; 
+}
+#hello{
+    margin-left:260px;
+    margin-top:170px;
+}
+#im{
+    margin-left:315px;
+    margin-top:-40px;
+    color: #ea323e;
+}
+#name{
+    margin-left:280px;
+    margin-top:-20px;
+    font-size:60px;
+    font-family: 'Merriweather', serif;
+    
+}
+#engg{
+    margin-left:290px;
+    margin-top:-50px;
+    font-size:25px;
+    font-family: 'Kanit', sans-serif;
+    letter-spacing:2px;
+    color: #ea323e;
+
+}
+#hire{
+    margin-left:350px;
+    margin-top:10px;
+    height:30px;
+    width:140px;
+    font-size:20px;
+    border-radius:10px;
+    background-color:transparent;
+    border:3px solid #ea323e;
+    color:rgb(85, 80, 80);
+    font-family: 'Libre Baskerville', serif;
+    letter-spacing:3px;
+    box-shadow:10px 0px 15px 0px black;
+
+}
+
+#naming{
+    margin-top:-500px;
+}
+#boy{
+    margin-top:230px;
+    margin-left:80px;
+}
+#aboutname{
+    margin-top:-470px;
+    text-align: center;
+    font-size:40px;
+    font-family: 'poppins',sans-serif;
+    text-decoration: underline;
+    text-decoration-color: #ea323e;
+}
+#aboutname:hover{
+    text-decoration:none;
+   
+
+}
+.aboutyash{
+    margin-left:700px;
+    font-family: 'Kanit', sans-serif;
+    margin-top:-10px;
+    font-size:18px;
+}
+#myimg{
+   margin-top:-400px; 
+   margin-left:700px;
+}
+.skills{
+    height:400px;
+    margin-top:240px;
+}
+.projects{
+    height: auto;
+ 
+    margin-top:40px;
+}
+#Contactme{
+    text-align: center;
+    font-size:40px;
+    font-family: 'poppins',sans-serif;
+    text-decoration: underline;
+    text-decoration-color: #ea323e;
+}
+#Contactme:hover{
+    text-decoration: none;
+}
+#Get{
+     text-align: center;
+     margin-top:-30px;
+     font-family: 'Kanit', sans-serif;
+     font-size:20px;
+}
+.social{
+    text-align: center;
+    word-spacing:40px;
+    height:30px;
+   
+}
+fieldset{
+  margin-left: 500px;
+  border-top-color: black;
+  box-sizing:border-box;
+  border-radius:10px;
+  width:inherit;
+  grid-area: 1/1;
+     
+}
+.form{
+    margin-left:600px;
+    margin-top:-300px;
+}
+.whatsapp{
+    margin-left:50px;
+    margin-top:40px;
+    
+}
+#skill{
+    text-align: center;
+    font-size:40px;
+    font-family: 'poppins',sans-serif;
+    text-decoration: underline;
+    text-decoration-color: #ea323e;
+}
+#skill:hover{
+    text-decoration: none;
+}
+#subskill{
+    text-align:center;
+    margin-top:-25px;
+    font-family: 'Kanit', sans-serif;
+     font-size:20px;
+}
+#sendbtn{
+    height:35px;
+    width:100px;
+    text-align:left;
+    background-image: url('/Portfolio/Images/icons/send.png');
+    background-size:35px;
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius:10px;
+    font-size:20px;
+    color: #ea323e;
+    background-color: transparent;
+    margin-left:100px;
+}
+.fristproject{
+    margin-top:-150px;
+    margin-left:-20px;
+   
+}
+#view{
+    margin-left:290px;
+}
+.contact{
+   
+    margin-top:50px;
+    background-image: url('/Portfolio/Images/back.jpg');
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.lang{
+    margin-left:100px;
+    font-size:20px;
+    font-family: 'Lato', sans-serif;
+}
+.Frontend{
+    font-size:20px;
+    font-family: 'Lato', sans-serif;
+    margin-left:500px;
+    margin-top:-150px;
+}
+.Softwares{
+    font-size:20px;
+    font-family: 'Lato', sans-serif;
+    margin-left:1000px;
+    margin-top:-215px;
+}
+.allskills{
+    margin-top: -90px;
+}
+.bgskills{
+    background-color:#dcdedf ;
+    border-radius:40px;
+}
